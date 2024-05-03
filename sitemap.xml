@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.tusvoces.com/</loc>
+        <lastmod>2024-05-10</lastmod>  <!-- Adjust this date to reflect the last modification date -->
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <!-- Add entries here for other pages if your site has multiple important pages -->
+    <!-- Example:
+    <url>
+        <loc>https://www.tusvoces.com/about</loc>
+        <lastmod>2024-05-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    -->
+</urlset>
